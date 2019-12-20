@@ -13,4 +13,4 @@ Futuro ingeniero de software
 estudio en la universidad de Guayaquil
 
 
-[email@domain.com](mailto:vrhenrry.pareja@gmail.com)
+[vrhenrry.pareja@gmail.com](mailto:vrhenrry.pareja@gmail.com)
