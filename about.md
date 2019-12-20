@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Informacion personal
 
-### More Information
+Henrry Pareja
 
-A place to include any other types of information that you'd like to include about yourself.
+Futuro ingeniero de software
 
-### Contact me
+estudio en la universidad de Guayaquil
 
-[email@domain.com](mailto:email@domain.com)
+
+[email@domain.com](mailto:vrhenrry.pareja@gmail.com)
