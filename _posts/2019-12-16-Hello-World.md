@@ -15,6 +15,10 @@ Te lo explico ahora
 Es la destreza de aplicar los conocimientos científicos a la invención en mejorar la utilización de las técnicas industriales en todas sus dimensiones. Según el concepto de ingeniería, esta es una carrera o profesión en la que se emplean de una manera correcta y con buen juicio, el conocimiento de las ciencias naturales y matemáticas adquiridas a través del estudio, la práctica y la experiencia, ésto con el fin que se puedan utilizar de una manera eficaz los materiales y la fuerza de la naturaleza en el benéfico de la sociedad.
 
 
+![software]({{ site.baseurl }}/images/http://notigrafix.com/wp-content/uploads/Fachinformatiker-Anwendungsentwicklung-360x258.jpg)
+
+
+
 ## CONTENIDO DE MI CLASE
 
 Definición de IS (continúa)
